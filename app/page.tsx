@@ -585,7 +585,7 @@ export default function SurprisePage() {
                       <div className="text-center py-6">
                         <Lock className="mx-auto text-pink-200 w-12 h-12 mb-4" />
                         <p className="text-[10px] text-gray-400 mb-4 uppercase tracking-[0.2em]">
-                          Password Jadian (DDMMYY):
+                          Password Hari Brojol Duyolll (DDMMYY):
                         </p>
                         <input
                           type="text"
