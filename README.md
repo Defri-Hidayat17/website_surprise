@@ -1,21 +1,21 @@
-# website_surprise
+# 💖 Website Kejutan Spesial untuk [Nama Pacar]! 💖
 
-Website kejutan ulang tahun spesial untuk pacarku.
+Selamat datang di repositori rahasia penuh cinta ini! Ini adalah website kejutan ulang tahun spesial yang dibuat dengan sepenuh hati untuk pacarku tercinta. ✨ Semoga suka ya!
 
 ---
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Ini adalah proyek [Next.js](https://nextjs.org) yang dibangun dengan semangat dan kegembiraan, menggunakan [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## 🚀 Siap Memulai Petualangan?
 
-First, run the development server:
+Untuk menjalankan website ini di lingkungan pengembangan lokalmu, ikuti langkah-langkah mudah ini:
 
 ```bash
+# Jalankan server pengembangan
 npm run dev
-# or
+# atau
 yarn dev
-# or
+# atau
 pnpm dev
-# or
+# atau
 bun dev
-```
